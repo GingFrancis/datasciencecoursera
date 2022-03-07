@@ -1,0 +1,7 @@
+---- 
+title:- 
+author: "GingFrancis"
+date: "03/08/22"
+output: "Result File"
+----
+## This is a markdown file
